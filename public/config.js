@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "PumpFun, https://pump.fun/coin/C67R5izAB5uvzuCr7guTZZCNRkY2G1eZ1zwAqdw3pump",
+  "VITE_CUSTOM_MENUS": "PumpFun, https://pump.fun/coin/C67R5izAB5uvzuCr7guTZZCNRkY2G1eZ1zwAqdw3pump; Telegram, https://t.me/Fomodexsolana; X, https://x.com/fomodexsolana",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/Fomodexsolana",
